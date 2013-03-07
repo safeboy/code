@@ -1,0 +1,26 @@
+From: Thomas Friebel <tf@imapengine.org>
+Organization: IMAPEngine.org
+Subject: Welcome to IMAPEngine
+Date: Thu, 13 Jan 2005 08:00:00 +0100
+User-Agent: KMail/1.7.1
+X-KMail-CryptoFormat: 15
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Status: R
+X-Status: N
+
+Welcome to your new IMAPEngine server.
+
+It seems as if it would work properly, since you can read this email.
+
+To add more user accounts and pop3 sources use the integrated web interface at
+your.domain.com:8282 or the port you defined in the ./programm/easyserv.ini
+
+For more information visit the www.imapengine.org website.
+
+Thank you for trying IMAPEngine.
+
+Thomas

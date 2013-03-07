@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="CBase64.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="288" topLine="0" />
+	</File>
+	<File name="CBase64.h" open="0" top="0" tabpos="0">
+		<Cursor position="150" topLine="0" />
+	</File>
+	<File name="CMemory.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="6125" topLine="52" />
+	</File>
+	<File name="CMemory.h" open="0" top="0" tabpos="2">
+		<Cursor position="788" topLine="0" />
+	</File>
+	<File name="EmaiDecode.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="EmaiDecode.h" open="0" top="0" tabpos="0">
+		<Cursor position="296" topLine="0" />
+	</File>
+	<File name="GUI.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7057" topLine="188" />
+	</File>
+	<File name="GUI.h" open="0" top="0" tabpos="0">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="Pop3Engine.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1994" topLine="33" />
+	</File>
+	<File name="Pop3Engine.h" open="0" top="0" tabpos="0">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="SendEmail.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3286" topLine="75" />
+	</File>
+	<File name="SendEmail.h" open="0" top="0" tabpos="0">
+		<Cursor position="702" topLine="0" />
+	</File>
+	<File name="SmtpEngine.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="9522" topLine="139" />
+	</File>
+	<File name="SmtpEngine.h" open="0" top="0" tabpos="3">
+		<Cursor position="922" topLine="16" />
+	</File>
+	<File name="_CBase64.h" open="0" top="0" tabpos="0">
+		<Cursor position="118" topLine="0" />
+	</File>
+	<File name="_CMemory.h" open="0" top="0" tabpos="0">
+		<Cursor position="798" topLine="6" />
+	</File>
+	<File name="_EmailiDecode.h" open="0" top="0" tabpos="0">
+		<Cursor position="272" topLine="0" />
+	</File>
+	<File name="_Pop3Engine.h" open="0" top="0" tabpos="0">
+		<Cursor position="71" topLine="0" />
+	</File>
+	<File name="_SmtpEngine.h" open="0" top="0" tabpos="0">
+		<Cursor position="222" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="39" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="0">
+		<Cursor position="165" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

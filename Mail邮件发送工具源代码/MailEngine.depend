@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1360969366 source:d:\my\mailengine\cmemory.cpp
+	"CMemory.h"
+
+1359824138 d:\my\mailengine\cmemory.h
+	"_CMemory.h"
+
+1360969362 d:\my\mailengine\_cmemory.h
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1361030704 source:d:\my\mailengine\pop3engine.cpp
+	"Pop3Engine.h"
+
+1361030704 d:\my\mailengine\pop3engine.h
+	"_Pop3Engine.h"
+
+1361029452 d:\my\mailengine\_pop3engine.h
+	<Winsock2.h>
+	<cassert>
+	<ctime>
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	<list>
+	"CBase64.h"
+	"CMemory.h"
+
+1360946142 d:\my\mailengine\cbase64.h
+	"_CBase64.h"
+
+1360969360 d:\my\mailengine\_cbase64.h
+	<cstdlib>
+	<cstring>
+	<cassert>
+
+1361018332 source:d:\my\mailengine\smtpengine.cpp
+	"SmtpEngine.h"
+
+1360976026 d:\my\mailengine\smtpengine.h
+	"_SmtpEngine.h"
+
+1360969364 d:\my\mailengine\_smtpengine.h
+	<Winsock2.h>
+	<cassert>
+	<ctime>
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"CBase64.h"
+	"CMemory.h"
+
+1361030948 source:d:\my\mailengine\main.cpp
+	<iostream>
+	"SmtpEngine.h"
+	"Pop3Engine.h"
+
+1360946384 source:d:\my\mailengine\cbase64.cpp
+	"CBase64.h"
+
+1360969366 source:g:\my\mailengine\cmemory.cpp
+	"CMemory.h"
+
+1359824138 g:\my\mailengine\cmemory.h
+	"_CMemory.h"
+
+1360969362 g:\my\mailengine\_cmemory.h
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1361042084 source:g:\my\mailengine\emaidecode.cpp
+	"EmaiDecode.h"
+
+1361042076 g:\my\mailengine\emaidecode.h
+	"_EmailiDecode.h"
+
+1361043484 g:\my\mailengine\_emailidecode.h
+	<cassert>
+	<ctime>
+	"CBase64.h"
+	"CMemory.h"
+
+1360946142 g:\my\mailengine\cbase64.h
+	"_CBase64.h"
+
+1360969360 g:\my\mailengine\_cbase64.h
+	<cstdlib>
+	<cstring>
+	<cassert>
+
+1361093974 source:g:\my\mailengine\gui.cpp
+	"GUI.h"
+
+1361093128 g:\my\mailengine\gui.h
+	<windows.h>
+	<shellapi.h>
+	"resource.h"
+
+1361093028 g:\my\mailengine\resource.h
+	<windows.h>
+
+1361035154 source:g:\my\mailengine\pop3engine.cpp
+	"Pop3Engine.h"
+
+1361035142 g:\my\mailengine\pop3engine.h
+	"_Pop3Engine.h"
+
+1361029452 g:\my\mailengine\_pop3engine.h
+	<Winsock2.h>
+	<cassert>
+	<ctime>
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	<list>
+	"CBase64.h"
+	"CMemory.h"
+
+1361044066 source:g:\my\mailengine\smtpengine.cpp
+	"SmtpEngine.h"
+
+1360976026 g:\my\mailengine\smtpengine.h
+	"_SmtpEngine.h"
+
+1360969364 g:\my\mailengine\_smtpengine.h
+	<Winsock2.h>
+	<cassert>
+	<ctime>
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"CBase64.h"
+	"CMemory.h"
+
+1361063776 source:g:\my\mailengine\main.cpp
+	<iostream>
+	"SmtpEngine.h"
+	"Pop3Engine.h"
+	"GUI.h"
+
+1361094342 source:g:\my\mailengine\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1360946384 source:g:\my\mailengine\cbase64.cpp
+	"CBase64.h"
+
